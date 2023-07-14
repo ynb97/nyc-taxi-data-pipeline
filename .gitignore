@@ -2,7 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+data/
+spark-warehouse/
 
+*.parquet
+config.json
 # C extensions
 *.so
 
